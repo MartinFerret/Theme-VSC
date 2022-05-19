@@ -1,0 +1,21 @@
+{
+    "name": "colorsan",
+    "displayName": "colorsan",
+    "description": "colorful but simple",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Color-san",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Color-san-color-theme.json"
+            }
+        ]
+    }
+}
